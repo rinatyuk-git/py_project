@@ -1,8 +1,6 @@
-def summation():
-    s = 2 + 8
-    return s
+def summation(a, b):
+    return a + b
 
 
-def deduction():
-    d = 10 - 7
-    return d
+def deduction(c, d):
+    return c - d
