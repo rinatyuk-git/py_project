@@ -1,6 +1,8 @@
 def summation():
-    return 2 + 8
+    s = 2 + 8
+    return s
 
 
 def deduction():
-    return 9 - 2
+    d = 10 - 7
+    return d
